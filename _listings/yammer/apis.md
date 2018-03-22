@@ -13,9 +13,9 @@ tags:
 - Media
 - Chat
 - Bots
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/relationships/master/_listings/yammer/apis.yaml
+created: "2018-03-22"
+modified: "2018-03-22"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/relationships/master/_listings/yammer/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Yammer API
@@ -27,7 +27,7 @@ apis:
   tags: Relationships
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/relationships/master/_listings/yammer/yamuri-relationships-json-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/relationships/master/_listings/yammer/yamuri-relationships-json-post.md
 x-common:
 - type: x-website
   url: http://developer.yammer.com
