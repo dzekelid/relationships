@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: Yammer API
-  description: 'TODO: Add Description'
+  title: Yammer API Add A Relationshipd
+  description: Add an org chart relationship. Specify id of the user for whom the
+    relationship is being added as user_id, if the user is not the current user. Use
+    [ subordinate | superior | colleague ] to create the relationship.
   version: 1.0.0
 host: example.com
 basePath: /
